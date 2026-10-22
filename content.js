@@ -48,8 +48,8 @@ window.PORTFOLIO = {
       role: "Founder and designer - independent project",
       tools: "OnShape (CAD), 3d printing, future composite layup",
       sections: [
-        { heading: "Overview", text: "Razorbill is a GNSS guided reconaissance UAS designed for maximum ease-of-use, rapid deployment, portability, and cost-effectiveness. Early prototypes are manufactured using PLA and PLA Aero and will be user controlled. The design uses a single pusher motor in the rear to power flight after pressurized gas launch from a handheld tube." },
-        { heading: "Design Plans", text: "Razorbill is setup with a multistage planning approach to ensure novel features work before full integration. Initial designs will focus on a fixed-wing, user controlled model in order to test flight characteristics. Razorbill will utilize fuselage-integrated control surfaces to decrease wing production costs. Final prototypes will move toward a full carbon fiber construction to decrease weight while maintaining structure in addition to folding wings." }
+        { heading: "Overview", text: "Razorbill is a GNSS guided reconnaissance UAS designed for maximum ease-of-use, rapid deployment, portability, and cost-effectiveness. Early prototypes are manufactured using PLA and PLA Aero and will be user controlled. The design uses a single pusher motor in the rear to power flight after pressurized gas launch from a handheld tube." },
+        { heading: "Design Plans", text: "Razorbill is set up with a multistage planning approach to ensure novel features work before full integration. Initial designs will focus on a fixed-wing, user controlled model in order to test flight characteristics. Razorbill will utilize fuselage-integrated control surfaces to decrease wing production costs. Final prototypes will move toward a full carbon fiber construction to decrease weight while maintaining structure in addition to folding wings." }
       ],
       images: [
         { src: "images/IG5.jpg", alt: "Prototype shell with unfolded wings", caption: "View of prototype shell with wings unfolded. The unfolded length is 12.9in with a wingspan of 24.5in. The design features just under 130in^2 of wing area." },
@@ -65,7 +65,7 @@ window.PORTFOLIO = {
       role: "Co-founder and designer - team of two",
       tools: "SolidWorks (FEA), OnShape (CAD), 3d printing",
       sections: [
-        { heading: "Overview", text: "Project Saker is a fixed wing autonomous UAS designed for aerial threat interception through kinectic energy impact. The design includes a dual motor tractor configuration for high-speed flight in addition to control canards to optimize in-air maneuverability. Initial designs focus on optical guidance integrated with onboard computer vision. Autonomous flight allows for loitering in order to protect designated areas and the ability to return to base if necessary." },
+        { heading: "Overview", text: "Project Saker is a fixed wing autonomous UAS designed for aerial threat interception through kinetic energy impact. The design includes a dual motor tractor configuration for high-speed flight in addition to control canards to optimize in-air maneuverability. Initial designs focus on optical guidance integrated with onboard computer vision. Autonomous flight allows for loitering in order to protect designated areas and the ability to return to base if necessary." },
         { heading: "Design Plans", text: "Future design plans include integrating more advanced guidance systems such as EO/IR or thermal imaging. A launch bay will also allow for rapid deployment through a solid rocket booster and easy transportation while maintaining full battery capacity." }
       ],
       images: [
