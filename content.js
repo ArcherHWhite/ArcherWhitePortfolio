@@ -90,7 +90,7 @@ window.PORTFOLIO = {
         { src: "images/IG9.jpg", alt: "View of full machine", caption: "View of full Rube Goldberg machine." }
       ],
       videos: [
-        { src: "assets/rube-goldberg.mp4", alt: "Video of full machine in action", caption: "Video of full Rube Goldberg machine in action." }
+        { src: "assets/rube-goldberg.mp4", alt: "Video of full machine in action", caption: "Video of Rube Goldberg elevator in action." }
       ],
       links: []
     }
